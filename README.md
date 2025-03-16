@@ -47,7 +47,7 @@ Passionate developer specializing in modern web and mobile technologies. I build
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="48" height="48" />
       <br>Laravel
     </td>
     <td align="center" width="96">
