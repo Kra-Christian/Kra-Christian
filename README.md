@@ -127,7 +127,7 @@ Passionate developer specializing in modern web and mobile technologies. I build
   <a href="https://portfolio-krachristian.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:christian.kra@epitech.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -255,7 +255,7 @@ Développeur passionné spécialisé dans les technologies web et mobiles modern
   <a href="https://portfolio-krachristian.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:christian.kra@epitech.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
