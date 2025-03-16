@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krachristian&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kra-Christian&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 <h2 id="english-version">🚀 Welcome to my profile</h2>
@@ -68,18 +68,18 @@ Passionate developer specializing in modern web technologies. I build intuitive 
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=krachristian&theme=react&border=61dafb&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krachristian&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Kra-Christian&theme=react&border=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kra-Christian&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 
 ## 💼 Recent Projects
 
 <div align="center">
-  <a href="https://portfolio-krachristian.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <a href="https://portfolio-Kra-Christian.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
-  <a href="https://github.com/krachristian/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <a href="https://github.com/Kra-Christian/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
 </div>
 
@@ -96,7 +96,7 @@ Passionate developer specializing in modern web technologies. I build intuitive 
   <a href="https://www.linkedin.com/in/kra-christian/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-krachristian.vercel.app/">
+  <a href="https://portfolio-Kra-Christian.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:christian.kra.epitech.eu">
@@ -169,18 +169,18 @@ Développeur passionné spécialisé dans les technologies modernes du web. Je c
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=krachristian&theme=react&border=61dafb&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krachristian&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Kra-Christian&theme=react&border=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kra-Christian&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 
 ## 💼 Projets Récents
 
 <div align="center">
-  <a href="https://portfolio-krachristian.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <a href="https://portfolio-Kra-Christian.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
-  <a href="https://github.com/krachristian/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <a href="https://github.com/Kra-Christian/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
 </div>
 
@@ -197,10 +197,10 @@ Développeur passionné spécialisé dans les technologies modernes du web. Je c
   <a href="https://www.linkedin.com/in/kra-christian/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-krachristian.vercel.app/">
+  <a href="https://portfolio-Kra-Christian.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:votre.email@example.com">
+  <a href="mailto:christian.kra@epitech.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -208,7 +208,7 @@ Développeur passionné spécialisé dans les technologies modernes du web. Je c
 </details>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krachristian&label=Profile%20views&color=0e75b6&style=flat" alt="profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=Kra-Christian&label=Profile%20views&color=0e75b6&style=flat" alt="profile view counter" />
 </div>
 
 <div align="center">
