@@ -1,63 +1,216 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm kra christian</h1>
-
-
+# <div align="center">👨‍💻 KRA CHRISTIAN | Full Stack Developer</div>
 
 <div align="center">
-  <img src ="./banner.png" />
-  
+  <!-- Language Toggle -->
+  <a href="#english-version">🇺🇸 English</a> |
+  <a href="#french-version">🇫🇷 Français</a>
 </div>
 
- <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krachristian&show_icons=true&theme=radical&hide_border=true" />
+</div>
 
-## 👨🏻‍💻 About Me:
+<h2 id="english-version">🚀 Welcome to my profile</h2>
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+Passionate developer specializing in modern web technologies. I build intuitive and high-performance applications with the MERN stack.
 
-- 🙋‍♂️ All about me is at **[My Website](https://portfolio-krachristian.vercel.app)**
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-- 🔭 I’m currently working on `Something Intresting`.
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning `MERN Stack`
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" height="48" style="background-color:white;border-radius:50%;" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" style="background-color:white;border-radius:50%;" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" />
+      <br>Redux
+    </td>
+  </tr>
+</table>
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+## 📈 GitHub Statistics
 
-- 🤔 I’m looking for help with `Competitive Programming`
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=krachristian&theme=react&border=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krachristian&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+## 💼 Recent Projects
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+<div align="center">
+  <a href="https://portfolio-krachristian.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/krachristian/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+</div>
 
-- ⚡ Fun fact: I waste most of my time playing games
+## 🎯 What I'm Currently Doing
 
-## 🛠️ Technologies and Tools I use:
+- 🔭 Working on an innovative project using the MERN stack
+- 🌱 Deepening my knowledge in React/Next.js application architecture
+- 👯 Looking for collaboration opportunities on ambitious projects
+- 💡 Exploring AI applications in web development
 
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-</p>
+## 🌐 Where to Find Me
 
-## ❤️ Let's get connected:
+<div align="center">
+  <a href="https://www.linkedin.com/in/kra-christian/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-krachristian.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:christian.kra.epitech.eu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<p>< <a href="https://www.linkedin.com/in/kra-christian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://portfolio-krachristian.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a></p>
+---
 
+<h2 id="french-version">🇫🇷 Version Française</h2>
+
+<details>
+<summary>Cliquez pour voir la version française</summary>
+
+## 🚀 Bienvenue sur mon profil
+
+Développeur passionné spécialisé dans les technologies modernes du web. Je construis des applications intuitives et performantes avec le stack MERN.
+
+> *"Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais."* – Cory House
+
+## 🛠️ Stack Technique
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" height="48" style="background-color:white;border-radius:50%;" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" style="background-color:white;border-radius:50%;" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" />
+      <br>Redux
+    </td>
+  </tr>
+</table>
+
+## 📈 Statistiques GitHub
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=krachristian&theme=react&border=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krachristian&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
+
+## 💼 Projets Récents
+
+<div align="center">
+  <a href="https://portfolio-krachristian.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/krachristian/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krachristian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+</div>
+
+## 🎯 Ce que je fais actuellement
+
+- 🔭 Je travaille sur un projet innovant utilisant le stack MERN
+- 🌱 J'approfondis mes connaissances en architecture des applications React/Next.js
+- 👯 Je recherche des opportunités de collaboration sur des projets ambitieux
+- 💡 J'explore les applications de l'IA dans le développement web
+
+## 🌐 Où me trouver
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kra-christian/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-krachristian.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:votre.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+</details>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krachristian&label=Profile%20views&color=0e75b6&style=flat" alt="profile view counter" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;Always+learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
