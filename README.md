@@ -73,7 +73,7 @@ Passionate developer specializing in modern web and mobile technologies. I build
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
@@ -202,7 +202,7 @@ Développeur passionné spécialisé dans les technologies web et mobiles modern
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
