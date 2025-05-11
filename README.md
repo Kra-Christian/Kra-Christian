@@ -134,18 +134,6 @@ Passionate developer specializing in modern web and mobile technologies. I build
         </p>
         <p>An application for browsing movies and TV series with authentication system, API testing, and secure data management. Built with Next.js, MongoDB, and The Movie Database (TMDB) API.</p>
       </td>
-      <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
-        <p align="center">
-          <a href="https://portfolio-krachristian.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-          </a>
-          <a href="https://github.com/Kra-Christian/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Source_Code-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
-          </a>
-        </p>
-        <p>A responsive personal portfolio website built with Next.js and Tailwind CSS showcasing my skills, projects, and professional journey.</p>
-      </td>
     </tr>
   </table>
 </div>
@@ -301,18 +289,6 @@ Développeur passionné spécialisé dans les technologies web et mobiles modern
           </a>
         </p>
         <p>Application de consultation de films et séries avec système d'authentification, tests d'API et gestion des données sécurisées. Construite avec Next.js, MongoDB et l'API The Movie Database (TMDB).</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Site Portfolio</h3>
-        <p align="center">
-          <a href="https://portfolio-krachristian.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Voir_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-          </a>
-          <a href="https://github.com/Kra-Christian/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code_Source-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
-          </a>
-        </p>
-        <p>Un site portfolio personnel responsive construit avec Next.js et Tailwind CSS présentant mes compétences, projets et parcours professionnel.</p>
       </td>
     </tr>
   </table>
