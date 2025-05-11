@@ -100,15 +100,54 @@ Passionate developer specializing in modern web and mobile technologies. I build
   <img alt="Kra-Christian's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kra-Christian&theme=tokyo-night&hide_border=true" />
 </div>
 
-## 💼 Featured Projects
+## 💻 Recent Projects
 
 <div align="center">
-  <a href="https://portfolio-krachristian.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/Kra-Christian/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Yessoua</h3>
+        <p align="center">
+          <a href="https://yessoua.clyktech.com/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+        </p>
+        <p>A web and mobile application for managing and publishing classified ads, featuring user authentication, geolocation, and notifications. Built with React, Node.js, MongoDB, Firebase, and geolocation APIs.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">MyShowtime</h3>
+        <p align="center">
+          <a href="https://myshowtime.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+        </p>
+        <p>A web platform for discovering and booking concerts, including event management, ticket handling, and user notifications. Developed with Nest.js, HBS, Node.js, and MongoDB.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">MyRottenTomatoe</h3>
+        <p align="center">
+          <a href="https://my-rotten-tomatoes-one.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+        </p>
+        <p>An application for browsing movies and TV series with authentication system, API testing, and secure data management. Built with Next.js, MongoDB, and The Movie Database (TMDB) API.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Portfolio Website</h3>
+        <p align="center">
+          <a href="https://portfolio-krachristian.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+          <a href="https://github.com/Kra-Christian/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Source_Code-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+          </a>
+        </p>
+        <p>A responsive personal portfolio website built with Next.js and Tailwind CSS showcasing my skills, projects, and professional journey.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🎯 Current Focus
@@ -229,15 +268,54 @@ Développeur passionné spécialisé dans les technologies web et mobiles modern
   <img alt="Graphique d'activité de Kra-Christian" src="https://github-readme-activity-graph.vercel.app/graph?username=Kra-Christian&theme=tokyo-night&hide_border=true" />
 </div>
 
-## 💼 Projets Mis en Avant
+## 💻 Projets Récents
 
 <div align="center">
-  <a href="https://portfolio-krachristian.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/Kra-Christian/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kra-Christian&repo=project-name&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Yessoua</h3>
+        <p align="center">
+          <a href="https://yessoua.clyktech.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Voir_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+        </p>
+        <p>Site web et application mobile permettant la gestion et la publication d'annonces, avec fonctionnalités d'authentification, de géolocalisation et de notifications. Développé avec React, Node.js, MongoDB et Firebase.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">MyShowtime</h3>
+        <p align="center">
+          <a href="https://myshowtime.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Voir_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+        </p>
+        <p>Plateforme web de découverte et de réservation de concerts, incluant la gestion des événements, des billets et l'envoi de notifications aux utilisateurs. Réalisé avec Nest.js, HBS, Node.js et MongoDB.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">MyRottenTomatoe</h3>
+        <p align="center">
+          <a href="https://my-rotten-tomatoes-one.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Voir_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+        </p>
+        <p>Application de consultation de films et séries avec système d'authentification, tests d'API et gestion des données sécurisées. Construite avec Next.js, MongoDB et l'API The Movie Database (TMDB).</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Site Portfolio</h3>
+        <p align="center">
+          <a href="https://portfolio-krachristian.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Voir_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
+          </a>
+          <a href="https://github.com/Kra-Christian/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Code_Source-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+          </a>
+        </p>
+        <p>Un site portfolio personnel responsive construit avec Next.js et Tailwind CSS présentant mes compétences, projets et parcours professionnel.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🎯 Focus Actuel
@@ -247,7 +325,7 @@ Développeur passionné spécialisé dans les technologies web et mobiles modern
 - 👯 À la recherche de collaborations sur des projets innovants
 - 💡 Exploration des applications d'IA/ML dans le développement web et mobile
 
-🌐 Me Contacter
+## 🌐 Me Contacter
 <div align="center">
   <a href="https://www.linkedin.com/in/kra-christian/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
